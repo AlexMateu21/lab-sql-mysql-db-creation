@@ -1,2 +1,4 @@
 DELETE FROM cars
-WHERE id = 4;
+WHERE car_id = 4;
+SHOW TABLES;
+SELECT * FROM cars;
